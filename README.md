@@ -1,7 +1,10 @@
-## Elevate-Labs-Task-2
+## Blinkit Sales Analysis ###
 Data Visualization with story telling.
-In this day I created a dashbord of Blikit Which is india's first delivery app. 
-Share some acttachment of data which will show the proper output of delivery of Blinkit in India.
+This data is taken from the kaggle for doing the Blinkit sales Analysis. The totally project is created on Excel.
+## TOOLS USED ## 
+1. Data Cleaning by using some basic formulas.
+2. Data fetch by removing unnnecessary columns which not needed and not giving output from that.
+3. Use pivot table, slicers, Charts, bar Graph, Pie Chart for making dashboard.
 
 ## Data is taken from kaggle for doing Analysis.
 1. Analyse which is the most top 5 sale items of Blinkit I found that the most selling products are Fruits, Snacks food, Household products, Frozen Food, Dairy product.
